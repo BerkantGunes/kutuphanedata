@@ -1,0 +1,1 @@
+kutuphane verileri SQL
